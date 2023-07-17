@@ -1,0 +1,15 @@
+C:\Users\Vusalkacik\Desktop\30 Task\30Tasks\30Tasks\bin\Debug\net6.0\30Tasks.exe
+C:\Users\Vusalkacik\Desktop\30 Task\30Tasks\30Tasks\bin\Debug\net6.0\30Tasks.deps.json
+C:\Users\Vusalkacik\Desktop\30 Task\30Tasks\30Tasks\bin\Debug\net6.0\30Tasks.runtimeconfig.json
+C:\Users\Vusalkacik\Desktop\30 Task\30Tasks\30Tasks\bin\Debug\net6.0\30Tasks.dll
+C:\Users\Vusalkacik\Desktop\30 Task\30Tasks\30Tasks\bin\Debug\net6.0\30Tasks.pdb
+C:\Users\Vusalkacik\Desktop\30 Task\30Tasks\30Tasks\obj\Debug\net6.0\30Tasks.csproj.AssemblyReference.cache
+C:\Users\Vusalkacik\Desktop\30 Task\30Tasks\30Tasks\obj\Debug\net6.0\30Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vusalkacik\Desktop\30 Task\30Tasks\30Tasks\obj\Debug\net6.0\30Tasks.AssemblyInfoInputs.cache
+C:\Users\Vusalkacik\Desktop\30 Task\30Tasks\30Tasks\obj\Debug\net6.0\30Tasks.AssemblyInfo.cs
+C:\Users\Vusalkacik\Desktop\30 Task\30Tasks\30Tasks\obj\Debug\net6.0\30Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Vusalkacik\Desktop\30 Task\30Tasks\30Tasks\obj\Debug\net6.0\30Tasks.dll
+C:\Users\Vusalkacik\Desktop\30 Task\30Tasks\30Tasks\obj\Debug\net6.0\refint\30Tasks.dll
+C:\Users\Vusalkacik\Desktop\30 Task\30Tasks\30Tasks\obj\Debug\net6.0\30Tasks.pdb
+C:\Users\Vusalkacik\Desktop\30 Task\30Tasks\30Tasks\obj\Debug\net6.0\30Tasks.genruntimeconfig.cache
+C:\Users\Vusalkacik\Desktop\30 Task\30Tasks\30Tasks\obj\Debug\net6.0\ref\30Tasks.dll
